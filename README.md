@@ -8,10 +8,9 @@ An end-to-end Streamlit dashboard that ingests customer reviews, runs AI-powered
 
 
 
-|---|---|
-| <img width="1902" height="785" alt="image" src="https://github.com/user-attachments/assets/f9558791-00db-443f-9521-6926cbdb6399" />
- | <img width="1882" height="706" alt="image" src="https://github.com/user-attachments/assets/b9a72dcf-5339-44b2-b559-cefac85b09fe" />
- |
+ <img width="1902" height="785" alt="image" src="https://github.com/user-attachments/assets/f9558791-00db-443f-9521-6926cbdb6399" />
+ <img width="1882" height="706" alt="image" src="https://github.com/user-attachments/assets/b9a72dcf-5339-44b2-b559-cefac85b09fe" />
+
  
 ---
 
