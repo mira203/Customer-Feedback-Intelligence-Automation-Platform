@@ -45,8 +45,8 @@ An end-to-end Streamlit dashboard that ingests customer reviews, runs AI-powered
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/mira203/Customer-Feedback-Intelligence-Automation-Platform
+cd Customer-Feedback-Intelligence-Automation-Platform
 
 # 2. Create a virtual environment (recommended)
 python -m venv venv
